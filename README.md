@@ -11,10 +11,6 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
   <h3 align="center">Travel Agency Platform</h3>
-
-  <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -24,24 +20,12 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
-
-## ⚠️ Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://www.youtube.com/watch?v=xZ1ba-RLrjo" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
+   
 ## <a name="introduction">🤖 Introduction</a>
 
-A modern travel agency platform with an admin dashboard and public site. Generate AI-powered trip itineraries based on country, travel style, interests, group type, and budget — and book trips with ease.
+This project is a **modern travel agency platform** that provides both an admin dashboard and a public-facing website. It allows users to generate **AI-powered trip itineraries** based on country, travel style, interests, group type, and budget, while also enabling trip booking functionality.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+The admin dashboard provides **user and trip management, growth metrics, and analytics**, making the platform scalable and production-ready.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -91,8 +75,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/travel-agency-dashboard.git
-cd travel-agency-dashboard
+git clone https://github.com/Techietal/TravelUp.git
+cd TravelUp
 ```
 
 **Installation**
@@ -2013,22 +1997,3 @@ export default Dashboard
 
 ```
 </details>
-
-## <a name="links">🔗 Assets</a>
-
-Assets used in the project can be found [here](https://jsm.dev/tourvisto-kit).
-
-  <a href="https://jsm.dev/tourvisto-kit" target="_blank">
-  <img src="public/readme/videokit.jpg" alt="Video Kit Banner">
-  </a>
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/tourvisto-readme" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
